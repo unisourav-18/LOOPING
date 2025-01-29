@@ -16,4 +16,16 @@ int main(){
     cin>>n;
     pat(n);
 }
+output: 
 
+enter n:7
+
+*
+**
+***
+****
+*****
+******
+
+
+=== Code Execution Successful ===
